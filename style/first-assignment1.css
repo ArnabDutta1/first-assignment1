@@ -89,3 +89,45 @@ font-size: 30px;
 .person{
     padding-left: 150px;
 }
+/* My plan section */
+.section-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+.my-plans{
+    margin-top: 130px;
+}
+.plans-container{
+    display: flex;
+    gap: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
+    line-height: 35px;
+}
+.title-icon1{
+    padding-left: 70px;
+}
+.title-icon2{
+    padding-left: 45px;
+}
+.title-icon3{
+    padding-left: 50px;
+}
+.title-icon4{
+    padding-left: 40px;
+}
+.plans{
+    padding: 30px;
+}
+.plans-title{
+    color: #151414;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+}
+.plans-description{
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+}
